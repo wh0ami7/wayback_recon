@@ -46,7 +46,6 @@ gcc -std=c23 -O3 -march=native -mtune=native -flto -ffast-math \
 ./wayback_recon example.com
 
 ## Usage
-```bash
 ./wayback_recon <domain> [year]
 
 Examples
