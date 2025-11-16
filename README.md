@@ -60,7 +60,7 @@ Examples
 - <domain>_params.txt → Extracted parameters only
 
 ## Author
-@Israel Thomas – Security Engineer | India
+@Israel Thomas – Security Engineer | India |
 LinkedIn - https://www.linkedin.com/in/israel7/ • GitHub - https://github.com/wh0ami7
 
 Made in India with ☕
