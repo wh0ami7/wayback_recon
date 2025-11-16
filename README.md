@@ -48,7 +48,7 @@ gcc -std=c23 -O3 -march=native -mtune=native -flto -ffast-math \
 ## Usage
 ./wayback_recon <domain> [year]
 
-Examples
+## Examples
 ./wayback_recon example.com          # Last ~12 months
 ./wayback_recon example.com 2024     # Only 2024 snapshots
 ./wayback_recon example.com "*"      # Full history (be patient!)
